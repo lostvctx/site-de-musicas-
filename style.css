@@ -1,0 +1,14 @@
+h1
+{
+  text-align: center;
+  font-family: cursive;
+  color: lime;
+}
+h2{text-align: center;}
+h3{text-align: center;}
+p{text-align: center;}
+h4{margin-right: auto;
+margin-left: auto;}
+h5{margin-left: auto;
+margin-right: auto;}
+body{background-color:rgb(160, 160, 160);}
